@@ -1,0 +1,34 @@
+[
+  {
+    "category": "Graphics",
+    "title": "WebGL 기초와 렌더링 파이프라인 이해하기",
+    "subtitle": "웹에서 3D 그래픽을 구현하는 첫 걸음",
+    "date": "2023.10.15",
+    "url": "https://github.com/Hamm-JH",
+    "color": "#8b5cf6"
+  },
+  {
+    "category": "AI/ML",
+    "title": "트랜스포머(Transformer) 모델의 어텐션 메커니즘",
+    "subtitle": "자연어 처리의 혁신, 핵심 원리 파헤치기",
+    "date": "2023.11.02",
+    "url": "https://github.com/Hamm-JH",
+    "color": "#ec4899"
+  },
+  {
+    "category": "Full Stack",
+    "title": "Next.js 14 App Router 마이그레이션 경험기",
+    "subtitle": "서버 컴포넌트와 향상된 라우팅 시스템 적용기",
+    "date": "2024.01.20",
+    "url": "https://github.com/Hamm-JH",
+    "color": "#14b8a6"
+  },
+  {
+    "category": "Architecture",
+    "title": "마이크로서비스 아키텍처에서의 이벤트 기반 통신",
+    "subtitle": "Kafka를 활용한 비동기 데이터 파이프라인 구축",
+    "date": "2024.03.11",
+    "url": "https://github.com/Hamm-JH",
+    "color": "#f59e0b"
+  }
+]

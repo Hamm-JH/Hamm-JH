@@ -90,7 +90,15 @@
 
 <!-- 4. Real-time Activity / Blog Posts -->
 ### 📝 실시간 활동 및 블로그 글 연동
-> 💡 **참고:** [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) 같은 깃허브 액션을 설정하면, 아래 주석 부분(`<!-- blog starts -->` ~ `<!-- blog ends -->`) 사이에 RSS 피드의 최신 글 목록이 자동으로 업데이트 됩니다.
+> 💡 **참고:** [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) 같은 깃허브 액션을 설정하면, 아래 주석 부분(`<!-- blog starts -->
+<div align="center">
+  <img src="./images/board-header.svg" width="100%" alt="Board Header" /><br/>
+  <a href="https://github.com/Hamm-JH"><img src="./images/board-row-0.svg" width="100%" alt="WebGL 기초와 렌더링 파이프라인 이해하기" /></a><br/>
+  <a href="https://github.com/Hamm-JH"><img src="./images/board-row-1.svg" width="100%" alt="트랜스포머(Transformer) 모델의 어텐션 메커니즘" /></a><br/>
+  <a href="https://github.com/Hamm-JH"><img src="./images/board-row-2.svg" width="100%" alt="Next.js 14 App Router 마이그레이션 경험기" /></a><br/>
+  <a href="https://github.com/Hamm-JH"><img src="./images/board-row-3.svg" width="100%" alt="마이크로서비스 아키텍처에서의 이벤트 기반 통신" /></a>
+</div>
+<!-- blog ends -->`) 사이에 RSS 피드의 최신 글 목록이 자동으로 업데이트 됩니다.
 
 <!-- <p align="center">
   <a href="https://github.com/Hamm-JH/sample-web">
