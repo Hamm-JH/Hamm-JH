@@ -1,12 +1,7 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20Hamm-JH's%20Space&fontSize=38&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=HAMM-JH%20%7C%20Fullstack%20%7C%20AI%20%7C%20Graphics&fontSize=32&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
-
-<!-- Introduction -->
-## 👋 안녕하세요! AI와 그래픽 기술을 웹 풀스택으로 녹여내는 융합형 개발자 OOO입니다.
-
-저는 복잡한 데이터를 직관적인 시각적 결과물로 변환하고, 이를 안정적인 웹 서비스로 제공하는 것에 열정을 가지고 있습니다. 
 
 <div align="right">
   <a href="mailto:sample@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -33,32 +28,47 @@
 
 <br/>
 
-<!-- Common Elements (Tech Stack) -->
-## 🛠 기술 스택 (Tech Stack)
+<!-- Unified Core Expertise & Tech Stack -->
+## 💼 분야별 역량 및 프로젝트 (Expertise & Tech Stack)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,threejs,wasm,html,css,pytorch,docker,git,github" alt="My Skills" />
-</div>
+### ⚙️ 공통 기술 (Common Tools & Infrastructure)
+여러 분야에 걸쳐 프로젝트 형상 관리 및 개발 환경 표준화에 기본적으로 사용하는 도구들입니다.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Common Skills" />
+</p>
 
-<br/>
+---
 
-<!-- Field specific content -->
-## 💼 주요 분야 및 프로젝트 (Core Expertise & Projects)
+### 🌐 풀스택 (Full-Stack Development)
+*   **기술 스택 (Tech Stack):**
+    <p align="left">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" alt="Fullstack Skills" />
+    </p>
+*   **대표 프로젝트 (Core Project):**
+    *   **[Sample Web SaaS](https://github.com/Hamm-JH/sample-web)**: 실시간 협업 화이트보드 툴 구축 (React, Node.js, WebSocket)
+        > 💡 *상세 아키텍처 구조도 및 라이브 데모 웹사이트 링크는 해당 레포지토리의 README에 작성되어 있습니다.*
 
-### 🌐 풀스택 (Full-Stack)
-사용성 높은 UI/UX 설계부터 대용량 트래픽을 처리하는 백엔드 아키텍처까지 구축합니다.
-* **[Sample Web SaaS]**: 실시간 협업 화이트보드 툴 구축 (React, Node.js, WebSocket)
-* 🔗 [라이브 데모 보기](https://sample-web.com) | 📄 [아키텍처 구조도 보기](https://github.com/Hamm-JH/sample-web/architecture.md)
+---
 
 ### 🧠 인공지능 (AI / Data Science)
-데이터 파이프라인 구축 및 딥러닝 모델 학습, 모델 경량화/서빙 최적화 경험이 있습니다.
-* **[Sample Vision Model]**: 실시간 객체 인식 및 세그멘테이션 모델 경량화 (PyTorch, TensorRT)
-* 🔗 [Hugging Face 데모](https://huggingface.co/spaces/sample) | 📓 [Colab 튜토리얼](https://colab.research.google.com/sample)
+*   **기술 스택 (Tech Stack):**
+    <p align="left">
+      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" alt="AI Skills" />
+    </p>
+*   **대표 프로젝트 (Core Project):**
+    *   **[Sample Vision Model](https://github.com/Hamm-JH/sample-vision)**: 실시간 객체 인식 및 세그멘테이션 모델 경량화 (PyTorch, TensorRT)
+        > 💡 *학습 파이프라인, 데이터셋 명세 및 Hugging Face 데모 링크는 해당 레포지토리의 README에 작성되어 있습니다.*
 
-### 🎨 그래픽스 (Graphics)
-웹 환경 및 로우레벨에서 효율적인 렌더링 파이프라인을 구축하고 성능을 최적화합니다.
-* **[Sample WebGL Engine]**: 브라우저 기반 3D 렌더링 엔진 구현 및 최적화 (C++, WebAssembly, WebGL)
-* 🔗 [렌더링 데모 (GIF)](https://github.com/Hamm-JH/sample-graphics/demo.gif) | 📊 [FPS 최적화 보고서](https://github.com/Hamm-JH/sample-graphics/optimization.md)
+---
+
+### 🎨 컴퓨터 그래픽스 (Computer Graphics)
+*   **기술 스택 (Tech Stack):**
+    <p align="left">
+      <img src="https://skillicons.dev/icons?i=cpp,wasm,threejs" alt="Graphics Skills" />
+    </p>
+*   **대표 프로젝트 (Core Project):**
+    *   **[Sample WebGL Engine](https://github.com/Hamm-JH/sample-graphics)**: 브라우저 기반 3D 렌더링 엔진 구현 및 최적화 (C++, WebAssembly, WebGL)
+        > 💡 *렌더링 파이프라인 분석 결과, 셰이더 코드 및 성능 벤치마크 지표는 해당 레포지토리의 README에 작성되어 있습니다.*
 
 <br/>
 
