@@ -32,16 +32,17 @@
 ## 💼 분야별 역량 및 프로젝트 (Expertise & Tech Stack)
 
 ### ⚙️ Common Tools & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Common Skills" />
-</p>
+* **Tools**
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Common Skills" />
+  </p>
 
 ---
 
 ### 🌐 Full-Stack Development
 *   **Tech Stack**
     <p align="left">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" alt="Fullstack Skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nextjs,vercel,nodejs,fastapi" alt="Fullstack Skills" />
     </p>
 *   **Core Project**
     *   **[Sample Web SaaS](https://github.com/Hamm-JH/sample-web)**: 실시간 협업 화이트보드 툴 구축 (React, Node.js, WebSocket)
@@ -52,7 +53,7 @@
 ### 🧠 AI / Data Science
 *   **Tech Stack**
     <p align="left">
-      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" alt="AI Skills" />
+      <img src="https://skillicons.dev/icons?i=py,pytorch,opencv" alt="AI Skills" />
     </p>
 *   **Core Project**
     *   **[Sample Vision Model](https://github.com/Hamm-JH/sample-vision)**: 실시간 객체 인식 및 세그멘테이션 모델 경량화 (PyTorch, TensorRT)
@@ -63,7 +64,7 @@
 ### 🎨 Computer Graphics
 *   **Tech Stack**
     <p align="left">
-      <img src="https://skillicons.dev/icons?i=cpp,wasm,threejs" alt="Graphics Skills" />
+      <img src="https://skillicons.dev/icons?i=cs,unity,cpp,threejs,wasm" alt="Graphics Skills" />
     </p>
 *   **Core Project**
     *   **[Sample WebGL Engine](https://github.com/Hamm-JH/sample-graphics)**: 브라우저 기반 3D 렌더링 엔진 구현 및 최적화 (C++, WebAssembly, WebGL)
