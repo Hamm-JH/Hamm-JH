@@ -90,7 +90,7 @@
 
 <!-- 4. Real-time Activity / Blog Posts -->
 ### 📝 실시간 활동 및 블로그 글 연동
-> 💡 **참고:** [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) 같은 깃허브 액션을 설정하면, 아래 주석 부분
+> 💡 **참고:** [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) 같은 깃허브 액션을 설정하면, 아래 지정된 영역에 RSS 피드의 최신 글 목록이 자동으로 업데이트 됩니다.
 
 <!-- <p align="center">
   <a href="https://github.com/Hamm-JH/sample-web">
@@ -101,6 +101,10 @@
 <!-- ![Velog Stats](https://velog-readme-stats.vercel.app/api?name=bonjohyeon&index=0) -->
 
 <!-- blog starts -->
+
+<div align="center">
+  <img src="./images/board-header.svg" width="100%" alt="Board Header" /><br/>
+</div>
 
 <!-- blog ends -->
 
