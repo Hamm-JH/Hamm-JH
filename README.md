@@ -8,7 +8,7 @@
 
 저는 복잡한 데이터를 직관적인 시각적 결과물로 변환하고, 이를 안정적인 웹 서비스로 제공하는 것에 열정을 가지고 있습니다. 
 
-<div align="center">
+<div align="right">
   <a href="mailto:sample@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sample"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://blog.sample.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=medium&logoColor=white"/></a>
