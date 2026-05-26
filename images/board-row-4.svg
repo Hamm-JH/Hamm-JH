@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80" fill="none">
+  <defs>
+    <style>
+      .title {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 14.5px;
+        font-weight: 700;
+        fill: #f0f6fc;
+        transition: fill 0.2s ease;
+      }
+      .description {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 12px;
+        fill: #8b949e;
+      }
+      .date {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 13px;
+        font-weight: bold;
+        fill: #8b949e;
+      }
+      .badge-text {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 10px;
+        font-weight: 800;
+        fill: #ffffff;
+        letter-spacing: 1px;
+      }
+      .row-bg {
+        fill: #0d1117;
+        transition: fill 0.2s ease;
+      }
+      .container:hover .row-bg {
+        fill: #1c2128;
+      }
+      .container:hover .title {
+        fill: #58a6ff;
+      }
+    </style>
+  </defs>
+
+  <g class="container" cursor="pointer">
+    <path class="row-bg" d="M 0 0 L 800 0 L 800 72 A 8 8 0 0 1 792 80 L 8 80 A 8 8 0 0 1 0 72 Z" />
+    
+    
+    
+    <rect x="30" y="22" width="110" height="36" rx="8" fill="#339933" />
+    <text x="85" y="44" class="badge-text" text-anchor="middle">DATABASE</text>
+    
+    <text x="170" y="37" class="title">PostgreSQL 인덱스 설계 가이드</text>
+    <text x="170" y="58" class="description">B-Tree 인덱스 원리와 쿼리 성능 최적화</text>
+    
+    <text x="710" y="46" class="date" text-anchor="middle">2024.05.26</text>
+  </g>
+</svg>
