@@ -47,7 +47,7 @@
     <rect x="30" y="22" width="110" height="36" rx="8" fill="#14b8a6" />
     <text x="85" y="44" class="badge-text" text-anchor="middle">FULL STACK</text>
     
-    <text x="170" y="37" class="title">Next.js 14 App Router 마이그레이션 경험기</text>
+    <text x="170" y="37" class="title">(Sample) Next.js 14 App Router 마이그레이션 경험기</text>
     <text x="170" y="58" class="description">서버 컴포넌트와 향상된 라우팅 시스템 적용기</text>
     
     <text x="710" y="46" class="date" text-anchor="middle">2024.01.20</text>

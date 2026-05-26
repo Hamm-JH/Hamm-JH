@@ -47,7 +47,7 @@
     <rect x="30" y="22" width="110" height="36" rx="8" fill="#f59e0b" />
     <text x="85" y="44" class="badge-text" text-anchor="middle">ARCHITECTURE</text>
     
-    <text x="170" y="37" class="title">마이크로서비스 아키텍처에서의 이벤트 기반 통신</text>
+    <text x="170" y="37" class="title">(Sample) 마이크로서비스 아키텍처에서의 이벤트 기반 통신</text>
     <text x="170" y="58" class="description">Kafka를 활용한 비동기 데이터 파이프라인 구축</text>
     
     <text x="710" y="46" class="date" text-anchor="middle">2024.03.11</text>

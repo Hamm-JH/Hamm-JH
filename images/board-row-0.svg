@@ -47,7 +47,7 @@
     <rect x="30" y="22" width="110" height="36" rx="8" fill="#8b5cf6" />
     <text x="85" y="44" class="badge-text" text-anchor="middle">GRAPHICS</text>
     
-    <text x="170" y="37" class="title">WebGL 기초와 렌더링 파이프라인 이해하기</text>
+    <text x="170" y="37" class="title">(Sample) WebGL 기초와 렌더링 파이프라인 이해하기</text>
     <text x="170" y="58" class="description">웹에서 3D 그래픽을 구현하는 첫 걸음</text>
     
     <text x="710" y="46" class="date" text-anchor="middle">2023.10.15</text>
