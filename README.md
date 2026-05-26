@@ -90,7 +90,7 @@
 *(이 프로필이 조회될 때마다 카운트가 실시간으로 증가합니다.)*
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamm-JH&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Visitor Hits"/>
+  <img src="https://komarev.com/ghpvc/?username=Hamm-JH&color=green&style=flat-square" alt="Visitor Hits"/>
 </div>
 
 <!-- 6. Achievements -->
