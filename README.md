@@ -1,16 +1,98 @@
-## Hi there 👋
+# (Sample View)
 
-<!--
-**Hamm-JH/Hamm-JH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Introduction -->
+## 👋 안녕하세요! AI와 그래픽 기술을 웹 풀스택으로 녹여내는 융합형 개발자 OOO입니다.
 
-Here are some ideas to get you started:
+저는 복잡한 데이터를 직관적인 시각적 결과물로 변환하고, 이를 안정적인 웹 서비스로 제공하는 것에 열정을 가지고 있습니다. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="mailto:sample@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sample"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://blog.sample.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<!-- Common Elements (Tech Stack) -->
+## 🛠 기술 스택 (Tech Stack)
+
+### 💻 언어 (Languages)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🚀 프레임워크 & 도구 (Frameworks & Tools)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<br/>
+
+<!-- Field specific content -->
+## 💼 주요 분야 및 프로젝트 (Core Expertise & Projects)
+
+### 🌐 풀스택 (Full-Stack)
+사용성 높은 UI/UX 설계부터 대용량 트래픽을 처리하는 백엔드 아키텍처까지 구축합니다.
+* **[Sample Web SaaS]**: 실시간 협업 화이트보드 툴 구축 (React, Node.js, WebSocket)
+* 🔗 [라이브 데모 보기](https://sample-web.com) | 📄 [아키텍처 구조도 보기](https://github.com/Hamm-JH/sample-web/architecture.md)
+
+### 🧠 인공지능 (AI / Data Science)
+데이터 파이프라인 구축 및 딥러닝 모델 학습, 모델 경량화/서빙 최적화 경험이 있습니다.
+* **[Sample Vision Model]**: 실시간 객체 인식 및 세그멘테이션 모델 경량화 (PyTorch, TensorRT)
+* 🔗 [Hugging Face 데모](https://huggingface.co/spaces/sample) | 📓 [Colab 튜토리얼](https://colab.research.google.com/sample)
+
+### 🎨 그래픽스 (Graphics)
+웹 환경 및 로우레벨에서 효율적인 렌더링 파이프라인을 구축하고 성능을 최적화합니다.
+* **[Sample WebGL Engine]**: 브라우저 기반 3D 렌더링 엔진 구현 및 최적화 (C++, WebAssembly, WebGL)
+* 🔗 [렌더링 데모 (GIF)](https://github.com/Hamm-JH/sample-graphics/demo.gif) | 📊 [FPS 최적화 보고서](https://github.com/Hamm-JH/sample-graphics/optimization.md)
+
+<br/>
+
+<!-- Profile Customization Elements -->
+## 🌟 깃허브 프로필 커스터마이징 샘플 (Profile Customizations)
+
+<!-- 1. Pinned Repositories -->
+### 📌 레포지토리 핀(Pin) 기능 (안내)
+> 💡 **참고:** 핀 기능은 README.md 파일 내부가 아닌, **깃허브 프로필 메인 페이지 설정(Customize your pins)**에서 적용합니다. 
+> 최대 6개의 레포지토리를 선택하여 상단에 고정할 수 있으며, 각 레포지토리 설정(Settings)에서 `Social Preview` 이미지를 예쁘게 등록하면 핀 고정 시 시각적인 카드로 표시됩니다.
+
+<!-- 2. GitHub Stats & Streak -->
+### 📊 동적 GitHub Stats 및 Streak
+*(아래 이미지는 깃허브 아이디 `Hamm-JH`를 기준으로 실시간 생성되도록 설정된 샘플입니다. 테마나 표시 항목을 변경할 수 있습니다.)*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" width="48%" alt="GitHub Streak" />
+</div>
+
+<!-- 3. 3D Contribution Graph -->
+### 🏙️ 3D Contribution Graph
+> 💡 **참고:** [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) 액션을 레포지토리에 설정해두면 매일 자동으로 아래와 같은 3D 그래픽을 생성하여 덮어씌웁니다.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/images/profile-3d-contrib/profile-green-animate.svg" width="80%" alt="3D Contribution Graph Sample"/>
+</div>
+
+<!-- 4. Real-time Activity / Blog Posts -->
+### 📝 실시간 활동 및 블로그 글 연동
+> 💡 **참고:** [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) 같은 깃허브 액션을 설정하면, 아래 주석 부분(`<!-- blog starts -->` ~ `<!-- blog ends -->`) 사이에 RSS 피드의 최신 글 목록이 자동으로 업데이트 됩니다.
+
+<!-- blog starts -->
+* [풀스택] WebSocket을 활용한 실시간 동기화 아키텍처 설계 (2026.05.25)
+* [AI] PyTorch 모델을 웹에서 돌려보자: ONNX와 WebAssembly (2026.05.18)
+* [Graphics] WebGL 성능 최적화: Draw Call 효과적으로 줄이기 (2026.05.10)
+<!-- blog ends -->
+
+<!-- 5. Visitor Counter -->
+### 👀 방문자 수 카운터 (Visitor Counter)
+*(이 프로필이 조회될 때마다 카운트가 실시간으로 증가합니다.)*
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamm-JH&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Visitor Hits"/>
+</div>
+
+<!-- 6. Achievements -->
+### 🏆 Achievements (업적 배지 안내)
+> 💡 **참고:** 깃허브 공식 업적 배지(Pull Shark, Arctic Code Vault, Yolo 등)는 README.md 내부에 텍스트로 넣는 것이 아닙니다. 
+> 프로필 페이지 좌측 사이드바(프로필 사진 아래)의 **Achievements** 섹션에 자동으로 표시됩니다. 프로필 세팅(Profile Settings)에서 해당 섹션의 표시 여부를 켜고 끌 수 있습니다.
