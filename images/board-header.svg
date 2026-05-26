@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="45" viewBox="0 0 800 45" fill="none">
+  <defs>
+    <style>
+      .header-text {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 11px;
+        font-weight: 700;
+        fill: #8b949e;
+        letter-spacing: 1.5px;
+      }
+    </style>
+  </defs>
+  
+  <!-- Header Background with top-rounded corners -->
+  <path d="M 0 8 A 8 8 0 0 1 8 0 L 792 0 A 8 8 0 0 1 800 8 L 800 45 L 0 45 Z" fill="#161b22" />
+  
+  <!-- Header Bottom Border -->
+  <line x1="0" y1="44.5" x2="800" y2="44.5" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Columns Headers -->
+  <text x="40" y="27" class="header-text">🏷️ CATEGORY</text>
+  <text x="170" y="27" class="header-text">✍️ RECENT TECHNICAL POSTS</text>
+  <text x="710" y="27" class="header-text" text-anchor="middle">📅 DATE</text>
+</svg>

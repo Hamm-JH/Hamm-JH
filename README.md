@@ -76,26 +76,37 @@
 ## 🌟 깃허브 프로필 커스터마이징 샘플 (Profile Customizations)
 
 <!-- 1. Pinned Repositories -->
-### 📌 레포지토리 핀(Pin) 기능 (안내)
+<!-- ### 📌 레포지토리 핀(Pin) 기능 (안내)
 > 💡 **참고:** 핀 기능은 README.md 파일 내부가 아닌, **깃허브 프로필 메인 페이지 설정(Customize your pins)**에서 적용합니다. 
-> 최대 6개의 레포지토리를 선택하여 상단에 고정할 수 있으며, 각 레포지토리 설정(Settings)에서 `Social Preview` 이미지를 예쁘게 등록하면 핀 고정 시 시각적인 카드로 표시됩니다.
+> 최대 6개의 레포지토리를 선택하여 상단에 고정할 수 있으며, 각 레포지토리 설정(Settings)에서 `Social Preview` 이미지를 예쁘게 등록하면 핀 고정 시 시각적인 카드로 표시됩니다. -->
 
 <!-- 2. GitHub Stats & Streak -->
-### 📊 동적 GitHub Stats 및 Streak (안내)
-> 💡 **참고:** 실시간 연동되는 GitHub Stats 카드와 Streak 카드는 가독성을 위해 **프로필 상단(연락처 아래)**에 배치해 두었습니다. 테마나 설정을 바꿀 때 쿼리 매개변수를 통해 자유롭게 커스텀할 수 있습니다.
+<!-- ### 📊 동적 GitHub Stats 및 Streak (안내)
+> 💡 **참고:** 실시간 연동되는 GitHub Stats 카드와 Streak 카드는 가독성을 위해 **프로필 상단(연락처 아래)**에 배치해 두었습니다. 테마나 설정을 바꿀 때 쿼리 매개변수를 통해 자유롭게 커스텀할 수 있습니다. -->
 
 <!-- 3. 3D Contribution Graph -->
-### 🏙️ 3D Contribution Graph (안내)
-> 💡 **참고:** 3D 기여도 그래프는 첫인상을 강조하기 위해 **프로필 상단(연락처 바로 아래)**에 한 행 전체 크기(`width="100%"`)로 배치해 두었습니다. 매일 밤 12시 깃허브 액션을 통해 자동으로 갱신됩니다.
+<!-- ### 🏙️ 3D Contribution Graph (안내)
+> 💡 **참고:** 3D 기여도 그래프는 첫인상을 강조하기 위해 **프로필 상단(연락처 바로 아래)**에 한 행 전체 크기(`width="100%"`)로 배치해 두었습니다. 매일 밤 12시 깃허브 액션을 통해 자동으로 갱신됩니다. -->
 
 <!-- 4. Real-time Activity / Blog Posts -->
 ### 📝 실시간 활동 및 블로그 글 연동
 > 💡 **참고:** [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) 같은 깃허브 액션을 설정하면, 아래 주석 부분(`<!-- blog starts -->` ~ `<!-- blog ends -->`) 사이에 RSS 피드의 최신 글 목록이 자동으로 업데이트 됩니다.
 
+<!-- <p align="center">
+  <a href="https://github.com/Hamm-JH/sample-web">
+    <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api/pin/?username=Hamm-JH&repo=sample-web&theme=radical" width="100%" height="150px" />
+  </a>
+</p> -->
+
+<!-- ![Velog Stats](https://velog-readme-stats.vercel.app/api?name=bonjohyeon&index=0) -->
+
 <!-- blog starts -->
-* [풀스택] WebSocket을 활용한 실시간 동기화 아키텍처 설계 (2026.05.25)
-* [AI] PyTorch 모델을 웹에서 돌려보자: ONNX와 WebAssembly (2026.05.18)
-* [Graphics] WebGL 성능 최적화: Draw Call 효과적으로 줄이기 (2026.05.10)
+<div align="center">
+  <img src="./images/board-header.svg" width="100%" alt="Board Header" /><br/>
+  <a href="https://github.com/Hamm-JH/sample-web"><img src="./images/board-fullstack.svg" width="100%" alt="Fullstack Post" /></a><br/>
+  <a href="https://github.com/Hamm-JH/sample-vision"><img src="./images/board-ai.svg" width="100%" alt="AI Post" /></a><br/>
+  <a href="https://github.com/Hamm-JH/sample-graphics"><img src="./images/board-graphics.svg" width="100%" alt="Graphics Post" /></a>
+</div>
 <!-- blog ends -->
 
 <!-- 5. GitHub Profile Trophy -->

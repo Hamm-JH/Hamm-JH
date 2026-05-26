@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80" fill="none">
+  <defs>
+    <linearGradient id="green-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    <style>
+      .title {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 14.5px;
+        font-weight: 700;
+        fill: #f0f6fc;
+        transition: fill 0.2s ease;
+      }
+      .description {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 12px;
+        fill: #8b949e;
+      }
+      .date {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 13px;
+        font-weight: bold;
+        fill: #8b949e;
+      }
+      .badge-text {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 10px;
+        font-weight: 800;
+        fill: #ffffff;
+        letter-spacing: 1px;
+      }
+      .row-bg {
+        fill: #161b22;
+        transition: fill 0.2s ease;
+      }
+      .container:hover .row-bg {
+        fill: #21262d;
+      }
+      .container:hover .title {
+        fill: #7ee787;
+      }
+    </style>
+  </defs>
+
+  <g class="container" cursor="pointer">
+    <!-- Background (Alternating Row Color) -->
+    <rect class="row-bg" width="800" height="80" />
+    
+    <!-- Bottom Border -->
+    <line x1="0" y1="79.5" x2="800" y2="79.5" stroke="#21262d" stroke-width="1"/>
+    
+    <!-- Category Badge -->
+    <rect x="30" y="22" width="110" height="36" rx="8" fill="url(#green-grad)" />
+    <text x="85" y="44" class="badge-text" text-anchor="middle">AI / ML</text>
+    
+    <!-- Title & Description -->
+    <text x="170" y="37" class="title">PyTorch 모델을 웹에서 돌려보자: ONNX와 WebAssembly</text>
+    <text x="170" y="58" class="description">웹 브라우저 환경에서 경량 딥러닝 모델 추론 파이프라인 최적화</text>
+    
+    <!-- Date -->
+    <text x="710" y="46" class="date" text-anchor="middle">2026.05.18</text>
+  </g>
+</svg>
