@@ -63,7 +63,7 @@
 
 
 <div align="center">
-  <img src="https://pr-github-readme-stats-b8j427ren-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" width="48%" alt="GitHub Streak" />
 </div>
 
@@ -72,7 +72,7 @@
 > 💡 **참고:** [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) 액션을 레포지토리에 설정해두면 매일 자동으로 아래와 같은 3D 그래픽을 생성하여 덮어씌웁니다.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/images/profile-3d-contrib/profile-green-animate.svg" width="80%" alt="3D Contribution Graph Sample"/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="80%" alt="3D Contribution Graph"/>
 </div>
 
 <!-- 4. Real-time Activity / Blog Posts -->
