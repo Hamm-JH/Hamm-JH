@@ -1,7 +1,7 @@
 [
   {
     "category": "Graphics",
-    "title": "WebGL 기초와 렌더링 파이프라인 이해하기",
+    "title": "(Sample) WebGL 기초와 렌더링 파이프라인 이해하기",
     "subtitle": "웹에서 3D 그래픽을 구현하는 첫 걸음",
     "date": "2023.10.15",
     "url": "https://github.com/Hamm-JH",
@@ -9,7 +9,7 @@
   },
   {
     "category": "AI/ML",
-    "title": "트랜스포머(Transformer) 모델의 어텐션 메커니즘",
+    "title": "(Sample) 트랜스포머(Transformer) 모델의 어텐션 메커니즘",
     "subtitle": "자연어 처리의 혁신, 핵심 원리 파헤치기",
     "date": "2023.11.02",
     "url": "https://github.com/Hamm-JH",
@@ -17,7 +17,7 @@
   },
   {
     "category": "Full Stack",
-    "title": "Next.js 14 App Router 마이그레이션 경험기",
+    "title": "(Sample) Next.js 14 App Router 마이그레이션 경험기",
     "subtitle": "서버 컴포넌트와 향상된 라우팅 시스템 적용기",
     "date": "2024.01.20",
     "url": "https://github.com/Hamm-JH",
@@ -25,7 +25,7 @@
   },
   {
     "category": "Architecture",
-    "title": "마이크로서비스 아키텍처에서의 이벤트 기반 통신",
+    "title": "(Sample) 마이크로서비스 아키텍처에서의 이벤트 기반 통신",
     "subtitle": "Kafka를 활용한 비동기 데이터 파이프라인 구축",
     "date": "2024.03.11",
     "url": "https://github.com/Hamm-JH",
@@ -33,7 +33,7 @@
   },
   {
     "category": "Database",
-    "title": "PostgreSQL 인덱스 설계 가이드",
+    "title": "(Sample) PostgreSQL 인덱스 설계 가이드",
     "subtitle": "B-Tree 인덱스 원리와 쿼리 성능 최적화",
     "date": "2024.05.26",
     "url": "https://github.com/Hamm-JH",
