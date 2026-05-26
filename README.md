@@ -1,5 +1,3 @@
-# (Sample View)
-
 <!-- Top Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20Hamm-JH's%20Space&fontSize=38&animation=fadeIn" width="100%" alt="Header Banner" />
@@ -14,6 +12,7 @@
   <a href="mailto:sample@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sample"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://blog.sample.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Hamm-JH&color=green&style=flat-square" alt="Visitor Hits"/>
 </div>
 
 <br/>
@@ -92,16 +91,6 @@
 </div>
 
 <br/>
-
-<!-- 6. Visitor Counter -->
-### 👀 방문자 수 카운터 (Visitor Counter)
-*(이 프로필이 조회될 때마다 카운트가 실시간으로 증가합니다.)*
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamm-JH&color=green&style=flat-square" alt="Visitor Hits"/>
-</div>
-
-
 
 <!-- 6. Achievements -->
 ### 🏆 Achievements (업적 배지 안내)
