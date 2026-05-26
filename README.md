@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/howard-hamm-1682671a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://blog.sample.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=medium&logoColor=white"/></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://hammi.dev/v1/ko/"><img src="https://img.shields.io/badge/🌐%20한국어-2f3542?style=flat-square"/></a>
-  <a href="https://hammi.dev/v1/ja/"><img src="https://img.shields.io/badge/🌐%20日本語-2f3542?style=flat-square"/></a>
-  <a href="https://hammi.dev/v1/en"><img src="https://img.shields.io/badge/🌐%20English-2f3542?style=flat-square"/></a>
+  <a href="https://hammi.dev/v1/ko/" target="_blank"><img src="https://img.shields.io/badge/🌐%20한국어-2f3542?style=flat-square"/></a>
+  <a href="https://hammi.dev/v1/ja/" target="_blank"><img src="https://img.shields.io/badge/🌐%20日本語-2f3542?style=flat-square"/></a>
+  <a href="https://hammi.dev/v1/en" target="_blank"><img src="https://img.shields.io/badge/🌐%20English-2f3542?style=flat-square"/></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Hamm-JH&color=green&style=flat-square" alt="Visitor Hits"/>
 </div>
