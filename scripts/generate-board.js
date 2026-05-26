@@ -131,8 +131,8 @@ posts.forEach((post, i) => {
 
 // Update README
 const readmeContent = fs.readFileSync(readmePath, 'utf8');
-const startTag = '\n<!-- blog starts -->\n';
-const endTag = '\n<!-- blog ends -->\n';
+const startTag = '<!-- blog starts -->';
+const endTag = '<!-- blog ends -->';
 
 const startIndex = readmeContent.indexOf(startTag);
 const endIndex = readmeContent.indexOf(endTag);
