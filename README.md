@@ -61,8 +61,9 @@
 ### 📊 동적 GitHub Stats 및 Streak
 *(아래 이미지는 깃허브 아이디 `Hamm-JH`를 기준으로 실시간 생성되도록 설정된 샘플입니다. 테마나 표시 항목을 변경할 수 있습니다.)*
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://pr-github-readme-stats-b8j427ren-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" width="48%" alt="GitHub Streak" />
 </div>
 
