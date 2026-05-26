@@ -30,5 +30,13 @@
     "date": "2024.03.11",
     "url": "https://github.com/Hamm-JH",
     "color": "#f59e0b"
+  },
+  {
+    "category": "Database",
+    "title": "PostgreSQL 인덱스 설계 가이드",
+    "subtitle": "B-Tree 인덱스 원리와 쿼리 성능 최적화",
+    "date": "2024.05.26",
+    "url": "https://github.com/Hamm-JH",
+    "color": "#339933" // 초록색 계열 색상 지정
   }
 ]
