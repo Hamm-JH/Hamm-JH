@@ -31,42 +31,41 @@
 <!-- Unified Core Expertise & Tech Stack -->
 ## 💼 분야별 역량 및 프로젝트 (Expertise & Tech Stack)
 
-### ⚙️ 공통 기술 (Common Tools & Infrastructure)
-여러 분야에 걸쳐 프로젝트 형상 관리 및 개발 환경 표준화에 기본적으로 사용하는 도구들입니다.
+### ⚙️ Common Tools & Infrastructure
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Common Skills" />
 </p>
 
 ---
 
-### 🌐 풀스택 (Full-Stack Development)
-*   **기술 스택 (Tech Stack):**
+### 🌐 Full-Stack Development
+*   **Tech Stack**
     <p align="left">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" alt="Fullstack Skills" />
     </p>
-*   **대표 프로젝트 (Core Project):**
+*   **Core Project**
     *   **[Sample Web SaaS](https://github.com/Hamm-JH/sample-web)**: 실시간 협업 화이트보드 툴 구축 (React, Node.js, WebSocket)
         > 💡 *상세 아키텍처 구조도 및 라이브 데모 웹사이트 링크는 해당 레포지토리의 README에 작성되어 있습니다.*
 
 ---
 
-### 🧠 인공지능 (AI / Data Science)
-*   **기술 스택 (Tech Stack):**
+### 🧠 AI / Data Science
+*   **Tech Stack**
     <p align="left">
       <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" alt="AI Skills" />
     </p>
-*   **대표 프로젝트 (Core Project):**
+*   **Core Project**
     *   **[Sample Vision Model](https://github.com/Hamm-JH/sample-vision)**: 실시간 객체 인식 및 세그멘테이션 모델 경량화 (PyTorch, TensorRT)
         > 💡 *학습 파이프라인, 데이터셋 명세 및 Hugging Face 데모 링크는 해당 레포지토리의 README에 작성되어 있습니다.*
 
 ---
 
-### 🎨 컴퓨터 그래픽스 (Computer Graphics)
-*   **기술 스택 (Tech Stack):**
+### 🎨 Computer Graphics
+*   **Tech Stack**
     <p align="left">
       <img src="https://skillicons.dev/icons?i=cpp,wasm,threejs" alt="Graphics Skills" />
     </p>
-*   **대표 프로젝트 (Core Project):**
+*   **Core Project**
     *   **[Sample WebGL Engine](https://github.com/Hamm-JH/sample-graphics)**: 브라우저 기반 3D 렌더링 엔진 구현 및 최적화 (C++, WebAssembly, WebGL)
         > 💡 *렌더링 파이프라인 분석 결과, 셰이더 코드 및 성능 벤치마크 지표는 해당 레포지토리의 README에 작성되어 있습니다.*
 
