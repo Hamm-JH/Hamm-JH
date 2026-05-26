@@ -109,12 +109,7 @@
 <!-- ![Velog Stats](https://velog-readme-stats.vercel.app/api?name=bonjohyeon&index=0) -->
 
 <!-- blog starts -->
-<div align="center">
-  <img src="./images/board-header.svg" width="100%" alt="Board Header" /><br/>
-  <a href="https://github.com/Hamm-JH/sample-web"><img src="./images/board-fullstack.svg" width="100%" alt="Fullstack Post" /></a><br/>
-  <a href="https://github.com/Hamm-JH/sample-vision"><img src="./images/board-ai.svg" width="100%" alt="AI Post" /></a><br/>
-  <a href="https://github.com/Hamm-JH/sample-graphics"><img src="./images/board-graphics.svg" width="100%" alt="Graphics Post" /></a>
-</div>
+
 <!-- blog ends -->
 
 <!-- 5. GitHub Profile Trophy -->
