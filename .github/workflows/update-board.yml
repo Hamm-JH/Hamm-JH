@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "posts.json"
-      - "scripts/generate-board.js"
   workflow_dispatch:
 
 jobs:
