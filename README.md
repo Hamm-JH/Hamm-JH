@@ -1,5 +1,10 @@
 # (Sample View)
 
+<!-- Top Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20Hamm-JH's%20Space&fontSize=38&animation=fadeIn" width="100%" alt="Header Banner" />
+</p>
+
 <!-- Introduction -->
 ## 👋 안녕하세요! AI와 그래픽 기술을 웹 풀스택으로 녹여내는 융합형 개발자 OOO입니다.
 
@@ -16,16 +21,9 @@
 <!-- Common Elements (Tech Stack) -->
 ## 🛠 기술 스택 (Tech Stack)
 
-### 💻 언어 (Languages)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🚀 프레임워크 & 도구 (Frameworks & Tools)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,threejs,wasm,html,css,pytorch,docker,git,github" alt="My Skills" />
+</div>
 
 <br/>
 
@@ -85,13 +83,25 @@
 * [Graphics] WebGL 성능 최적화: Draw Call 효과적으로 줄이기 (2026.05.10)
 <!-- blog ends -->
 
-<!-- 5. Visitor Counter -->
+<!-- 5. GitHub Profile Trophy -->
+### 🏆 GitHub Profile Trophy (업적 트로피)
+*(활동량에 따라 자동으로 등급별 트로피가 실시간으로 수집됩니다.)*
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamm-JH&theme=radical&no-background=true" alt="GitHub Profile Trophy"/>
+</div>
+
+<br/>
+
+<!-- 6. Visitor Counter -->
 ### 👀 방문자 수 카운터 (Visitor Counter)
 *(이 프로필이 조회될 때마다 카운트가 실시간으로 증가합니다.)*
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hamm-JH&color=green&style=flat-square" alt="Visitor Hits"/>
 </div>
+
+
 
 <!-- 6. Achievements -->
 ### 🏆 Achievements (업적 배지 안내)
