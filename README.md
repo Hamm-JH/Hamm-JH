@@ -17,6 +17,21 @@
 
 <br/>
 
+<!-- 3D Contribution Graph (Full Width) -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
+</div>
+
+<br/>
+
+<!-- GitHub Stats & Streak (Two Columns) -->
+<div align="center">
+  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" width="48%" alt="GitHub Streak" />
+</div>
+
+<br/>
+
 <!-- Common Elements (Tech Stack) -->
 ## 🛠 기술 스택 (Tech Stack)
 
@@ -55,22 +70,12 @@
 > 최대 6개의 레포지토리를 선택하여 상단에 고정할 수 있으며, 각 레포지토리 설정(Settings)에서 `Social Preview` 이미지를 예쁘게 등록하면 핀 고정 시 시각적인 카드로 표시됩니다.
 
 <!-- 2. GitHub Stats & Streak -->
-### 📊 동적 GitHub Stats 및 Streak
-*(아래 이미지는 깃허브 아이디 `Hamm-JH`를 기준으로 실시간 생성되도록 설정된 샘플입니다. 테마나 표시 항목을 변경할 수 있습니다.)*
-
-
-<div align="center">
-  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" width="48%" alt="GitHub Streak" />
-</div>
+### 📊 동적 GitHub Stats 및 Streak (안내)
+> 💡 **참고:** 실시간 연동되는 GitHub Stats 카드와 Streak 카드는 가독성을 위해 **프로필 상단(연락처 아래)**에 배치해 두었습니다. 테마나 설정을 바꿀 때 쿼리 매개변수를 통해 자유롭게 커스텀할 수 있습니다.
 
 <!-- 3. 3D Contribution Graph -->
-### 🏙️ 3D Contribution Graph
-> 💡 **참고:** [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) 액션을 레포지토리에 설정해두면 매일 자동으로 아래와 같은 3D 그래픽을 생성하여 덮어씌웁니다.
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="80%" alt="3D Contribution Graph"/>
-</div>
+### 🏙️ 3D Contribution Graph (안내)
+> 💡 **참고:** 3D 기여도 그래프는 첫인상을 강조하기 위해 **프로필 상단(연락처 바로 아래)**에 한 행 전체 크기(`width="100%"`)로 배치해 두었습니다. 매일 밤 12시 깃허브 액션을 통해 자동으로 갱신됩니다.
 
 <!-- 4. Real-time Activity / Blog Posts -->
 ### 📝 실시간 활동 및 블로그 글 연동
