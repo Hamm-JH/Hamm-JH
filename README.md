@@ -24,11 +24,12 @@
 
 <br/>
 
-<!-- GitHub Stats & Streak (Two Columns) -->
-<div align="center">
-  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" width="48%" alt="GitHub Streak" />
-</div>
+<!-- GitHub Stats & Streak (Two Columns Borderless Grid) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" width="50%" align="top" alt="GitHub Streak" />
+  &nbsp;
+  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="47.5%" align="top" alt="GitHub Stats" />
+</p>
 
 <br/>
 
