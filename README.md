@@ -102,14 +102,7 @@
 
 <!-- blog starts -->
 
-<div align="center">
-  <img src="./images/board-header.svg" width="100%" alt="Board Header" /><br/>
-  <a href="https://github.com/Hamm-JH"><img src="./images/board-row-0.svg" width="100%" alt="WebGL 기초와 렌더링 파이프라인 이해하기" /></a><br/>
-  <a href="https://github.com/Hamm-JH"><img src="./images/board-row-1.svg" width="100%" alt="트랜스포머(Transformer) 모델의 어텐션 메커니즘" /></a><br/>
-  <a href="https://github.com/Hamm-JH"><img src="./images/board-row-2.svg" width="100%" alt="Next.js 14 App Router 마이그레이션 경험기" /></a><br/>
-  <a href="https://github.com/Hamm-JH"><img src="./images/board-row-3.svg" width="100%" alt="마이크로서비스 아키텍처에서의 이벤트 기반 통신" /></a><br/>
-  <a href="https://github.com/Hamm-JH"><img src="./images/board-row-4.svg" width="100%" alt="PostgreSQL 인덱스 설계 가이드" /></a>
-</div>
+
 
 <!-- blog ends -->
 
