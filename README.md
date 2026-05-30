@@ -26,13 +26,13 @@
 
 <!-- GitHub Stats & Top Languages & Streak -->
 <p align="center">
-  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="48%" align="top" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" align="left" width="56.8%" alt="GitHub Streak" />
   &nbsp;
-  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api/top-langs?username=Hamm-JH&layout=compact&theme=radical" width="48%" align="top" alt="Top Languages" />
+  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api/top-langs?username=Hamm-JH&layout=compact&theme=radical" width="41%" align="top" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" alt="GitHub Streak" />
-</p>
+<!-- <p align="center">
+  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="41%" align="top" alt="GitHub Stats" />
+</p> -->
 
 <br/>
 
