@@ -24,11 +24,14 @@
 
 <br/>
 
-<!-- GitHub Stats & Streak (Two Columns Borderless Grid) -->
+<!-- GitHub Stats & Top Languages & Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" width="50%" align="top" alt="GitHub Streak" />
+  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="48%" align="top" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api?username=Hamm-JH&show_icons=true&theme=radical" width="47.5%" align="top" alt="GitHub Stats" />
+  <img src="https://pr-github-readme-stats-dbkfn37mf-hamm-jhs-projects.vercel.app/api/top-langs?username=Hamm-JH&layout=compact&theme=radical" width="48%" align="top" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamm-JH&theme=radical" alt="GitHub Streak" />
 </p>
 
 <br/>
